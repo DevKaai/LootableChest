@@ -1,5 +1,14 @@
 package de.crafttogether;
 
-public class LootableChest {
+import org.bukkit.plugin.java.JavaPlugin;
 
+public class LootableChest extends JavaPlugin {
+
+	public void onEnable() {
+		
+	}
+	
+	public void onDisable() {
+		
+	}
 }
